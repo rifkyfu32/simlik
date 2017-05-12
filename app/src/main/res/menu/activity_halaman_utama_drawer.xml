@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_komoditas"
+            android:icon="@drawable/ic_list_black_24dp"
+            android:title="@string/menu_kegiatan" />
+        <item
+            android:id="@+id/nav_nomor_penting"
+            android:icon="@drawable/ic_call_black_24dp"
+            android:title="@string/menu_nomor_penting" />
+        <item
+            android:id="@+id/nav_bantuan"
+            android:icon="@drawable/ic_help_black_24dp"
+            android:title="@string/menu_bantuan" />
+    </group>
+
+    <item android:title="@string/menu_fitur_lain">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/menu_bagikan" />
+        </menu>
+    </item>
+
+</menu>

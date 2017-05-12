@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">SIMLIK</string>
+    <string name="title_activity_halaman_utama">SIMLIK Kegiatan SKPD</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Tentang</string>
+    <string name="menu_fitur_lain">Fitur Lain</string>
+    <string name="menu_bagikan">Bagikan</string>
+    <string name="menu_bantuan">Bantuan</string>
+    <string name="menu_nomor_penting">Nomor Penting</string>
+    <string name="menu_kegiatan">Kegiatan</string>
+    <string name="sampah">askdasldk asdlkasjdlas</string>
+    <string name="tomboldialog_batal">BATALKAN</string>
+    <string name="tomboldialog_tutup">TUTUP</string>
+    <string name="tomboldialog_keluar">KELUAR</string>
+
+    <string name="teks_versi_apl">versi 1.0.0</string>
+    <string name="tentang_apl_desainkode">Desain dan Pengkodean</string>
+    <string name="tentang_apl_desainer">Rifky Fuady</string>
+    <string name="tentang_apl_mail">rifky2fuady@gmail.com</string>
+    <string name="bekerja_sama_dengan">Bekerja sama dengan</string>
+    <string name="diskomiinfo">Diskominfo Kota Pekalongan</string>
+    <string name="webkominfo">http://kominfo.pekalongankota.go.id/</string>
+    <string name="tentang">Simlik adalah sistem yang dibuat untuk mencatat layanan informasi kegiatan antar SKPD setiap hari yang dapat dilihat oleh semua SKPD yang ada di lingkungan Pemerintah Kota. Sehingga memudahkan untuk mengetahui semua kegiatan yang dilaksanakan dan dapat diketahui oleh SKPD waktu tertentu tanpa batasan waktu.</string>
+    <string name="bantuan">Aplikasi ini membutuhkan koneksi internet untuk mengambil dan mengolah data dari halaman web dan server. Sehingga pastikan koneksi internet di perangkat smartphone anda aktif.</string>
+    <string name="tentang1">Data yang ada di dalam aplikasi ini bersumberkan dari halaman web SIM Layanan Informasi Kegiatan Kota Pekalongan, yang beralamatkan di http://simlik.pekalongankota.go.id .</string>
+    <string name="tentang2">Sedangkan untuk pengolahan data dari halaman web agar dapat dipakai oleh aplikasi ini, menggunakan bantuan API http://simlik.esy.es/ .</string>
+    <string name="user_simlik">User Simlik</string>
+    <string name="email_user_simlik">user.simlik@diskominfo.go.id</string>
+    <string name="daftar_telepon_penting">Daftar kontak nomor telepon untuk keperluan penting dan darurat</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="cek">Cek</string>
+    <string name="text_kosong">Belum ada data yang ditampilkan</string>
+    <string name="acara">Aktifitas/Acara :</string>
+    <string name="tempat">Tempat :</string>
+</resources>

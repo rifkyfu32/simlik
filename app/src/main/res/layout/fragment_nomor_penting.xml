@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="@string/daftar_telepon_penting"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/keterangan_nomor_penting"
+        android:padding="10dp"
+        android:textSize="@dimen/ukuran16sp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="5dp"
+        android:textStyle="bold"
+        android:textColor="@color/icons"
+        android:background="@color/cardview"
+        android:gravity="center_horizontal"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rv_nomor_penting"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="5dp"/>
+</LinearLayout>
